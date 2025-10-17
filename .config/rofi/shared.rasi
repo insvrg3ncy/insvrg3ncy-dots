@@ -8,5 +8,5 @@
     active: #18E3C8;
     urgent: #FF4971;
 
-    img-background: url("~/Pictures/anal/20.png", width);
+    img-background: url("~/Pictures/Wallpapers/main.png", width);
 }
