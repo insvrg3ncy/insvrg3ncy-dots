@@ -193,19 +193,19 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-    position top
-    status_command i3status
-    i3bar_command i3bar --transparency
-    colors {
-        background #00000050
-        statusline #7aa2f7
-        separator #3b4261
-    }
-}
+#bar {
+#    position top
+#    status_command i3status
+#    i3bar_command i3bar --transparency
+#    colors {
+#        background #00000050
+#        statusline #7aa2f7
+#        separator #3b4261
+#    }
+#}
 
 #polybar
-#exec_always ~/.config/polybar/launch.sh
+exec_always ~/.config/polybar/launch.sh
 
 # my changes start
 
