@@ -13,7 +13,7 @@ you can use i3status instead of polybar, js uncomment the bar section in `.confi
 
 # scr's:
 
-[rawr1](scr1.png)
+[rawr1](okak.png)
 
 ### stay rawr~
 
